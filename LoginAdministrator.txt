@@ -1,0 +1,6 @@
+===Login Administrator===
+
+username : admin
+password : admin
+
+url admin : http://localhost/tk-islam-al-wakaf/admin
